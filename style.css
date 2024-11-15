@@ -1,0 +1,42 @@
+*{
+
+    font-family: "Poppins", sans-serif;
+}
+nav{
+    background-color: rgba(239, 202, 15, 0.745)
+}
+.Fotoaulab{
+    width: 150px;
+    height: 100px;
+}
+.link{
+    text-decoration: none;
+    color: rgb(63, 58, 80);
+}
+.punti{
+    list-style: none;
+
+}
+header{
+    background-image: url(https://dnewpydm90vfx.cloudfront.net/wp-content/uploads/2020/06/Intelligenza-artificiale-attacch-informatici.jpg);
+    height: 70vh;
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    color: white;
+    font-size: xx-large
+}
+.homelink{
+    color: white;
+    text-decoration: none;
+}
+.click{
+    background-color: rgb(179, 191, 11);
+    color: white;
+}
+
+.click:hover{
+    background-color: rgb(43, 87, 1);
+    color: black;
+}
